@@ -1,7 +1,6 @@
 ---
 title: "Armadio A"
 date: 2023-05-09T21:42:40+02:00
-draft: false
 ---
 
 |numero|autore|titolo|
