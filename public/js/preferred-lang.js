@@ -1,0 +1,1 @@
+(()=>{var t="http://example.org/",i={en:"http://example.org/"},a={fallback:t,homes:i};(()=>{let o=navigator.language||navigator.userLanguage;if(o in a.homes){window.location.href=a.homes[o];return}let r=o.split("-");for(let e in a.homes)if(e.indexOf(r[0])===0){window.location.href=a.homes[e];return}window.location.href=a.fallback})();})();
