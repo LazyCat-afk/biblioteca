@@ -1,4 +1,5 @@
 baseURL = 'https://soliprem.github.io/biblioteca/'
+canonifyurls = true
 languageCode = 'en-us'
 title = 'Biblioteca'
 theme = "fuji"
