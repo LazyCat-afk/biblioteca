@@ -1,5 +1,5 @@
 ---
-title: "Armadio A"
+title: "armadio_a"
 date: 2023-05-09T21:42:40+02:00
 ---
 
