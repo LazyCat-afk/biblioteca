@@ -1,4 +1,4 @@
-baseURL = 'https://soliprem.github.io/biblioteca'
+baseURL = 'https://soliprem.github.io/biblioteca/'
 languageCode = 'en-us'
 title = 'Biblioteca'
 theme = "fuji"
@@ -117,7 +117,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.nav]]
-name = "Armadio A"
+name = "Archives"
 url = "/archives/"
 weight = 2
 [[menu.nav]]
