@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biblioteca</title>
-    <link>http://example.org/</link>
+    <link>https://soliprem.github.io/biblioteca/</link>
     <description>Recent content on Biblioteca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://soliprem.github.io/biblioteca/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Indice Generale</title>
-      <link>http://example.org/</link>
-      <pubDate>Wed, 10 May 2023 01:11:19 +0200</pubDate>
+      <title>Homepage</title>
+      <link>https://soliprem.github.io/biblioteca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/</guid>
+      <guid>https://soliprem.github.io/biblioteca/</guid>
       <description>Armadi:
 Armadio A Armadio D </description>
-      <content>&lt;p&gt;Armadi:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://example.org/armadio_a&#34;&gt;Armadio A&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://example.org/armadio_d&#34;&gt;Armadio D&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
     </item>
     
   </channel>
