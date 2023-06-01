@@ -28,8 +28,8 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-author = "DSRKafuU"                # You can also set author in post front matter individually
-subTitle = "A minimal Hugo theme."
+author = "Giulia Voltolina"                # You can also set author in post front matter individually
+subTitle = "Archivio dei libri del Liceo M. Buonarroti di Monfalcone"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
@@ -117,54 +117,54 @@ tag = "tags"
 name = "Home"
 url = "/"
 weight = 1
-[[menu.nav]]
-name = "Armadio A"
-url = "/armadio_a"
-weight = 2
-[[menu.nav]]
-name = "Armadio D"
-url = "/armadio_d"
-weight = 3
-[[menu.nav]]
-name = "Armadio E"
-url = "armadio_e"
-weight = 4
-[[menu.nav]]
-name = "Armadio G"
-url = "armadio_g"
-weight = 5
-[[menu.nav]]
-name = "Armadio H"
-url = "armadio_h"
-weight = 6
-[[menu.nav]]
-name = "Armadio L"
-url = "armadio_l"
-weight = 7
-[[menu.nav]]
-name = "Armadio M"
-url = "armadio_m"
-weight = 8
-[[menu.nav]]
-name = "Armadio N"
-url = "armadio_n"
-weight = 9
-[[menu.nav]]
-name = "Armadio P"
-url = "armadio_p"
-weight = 10
-[[menu.nav]]
-name = "Armadio R"
-url = "armadio_r"
-weight = 11
-[[menu.nav]]
-name = "Armadio S"
-url = "armadio_s"
-weight = 12
-[[menu.link]]
-name = "GitHub"
-url = "https://github.com/LazyCat-afk"
-weight = 1
+# [[menu.nav]]
+# name = "Armadio A"
+# url = "/armadio_a"
+# weight = 2
+# [[menu.nav]]
+# name = "Armadio D"
+# url = "/armadio_d"
+# weight = 3
+# [[menu.nav]]
+# name = "Armadio E"
+# url = "armadio_e"
+# weight = 4
+# [[menu.nav]]
+# name = "Armadio G"
+# url = "armadio_g"
+# weight = 5
+# [[menu.nav]]
+# name = "Armadio H"
+# url = "armadio_h"
+# weight = 6
+# [[menu.nav]]
+# name = "Armadio L"
+# url = "armadio_l"
+# weight = 7
+# [[menu.nav]]
+# name = "Armadio M"
+# url = "armadio_m"
+# weight = 8
+# [[menu.nav]]
+# name = "Armadio N"
+# url = "armadio_n"
+# weight = 9
+# [[menu.nav]]
+# name = "Armadio P"
+# url = "armadio_p"
+# weight = 10
+# [[menu.nav]]
+# name = "Armadio R"
+# url = "armadio_r"
+# weight = 11
+# [[menu.nav]]
+# name = "Armadio S"
+# url = "armadio_s"
+# weight = 12
+# [[menu.link]]
+# name = "GitHub"
+# url = "https://github.com/LazyCat-afk"
+# weight = 1
 
 [build]
 noJSConfigInAssets = true
