@@ -118,22 +118,49 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.nav]]
-name = "Archives"
-url = "/archives/"
+name = "Armadio A"
+url = "/armadio_a"
 weight = 2
 [[menu.nav]]
-name = "About"
-url = "/about/"
+name = "Armadio D"
+url = "/armadio_d"
 weight = 3
 [[menu.nav]]
-name = "Search"
-url = "/search/"
+name = "Armadio E"
+url = "armadio_e"
 weight = 4
 [[menu.nav]]
-name = "RSS"
-url = "/index.xml"
+name = "Armadio G"
+url = "armadio_g"
 weight = 5
-
+[[menu.nav]]
+name = "Armadio H"
+url = "armadio_h"
+weight = 6
+[[menu.nav]]
+name = "Armadio L"
+url = "armadio_l"
+weight = 7
+[[menu.nav]]
+name = "Armadio M"
+url = "armadio_m"
+weight = 8
+[[menu.nav]]
+name = "Armadio N"
+url = "armadio_n"
+weight = 9
+[[menu.nav]]
+name = "Armadio P"
+url = "armadio_p"
+weight = 10
+[[menu.nav]]
+name = "Armadio R"
+url = "armadio_r"
+weight = 11
+[[menu.nav]]
+name = "Armadio S"
+url = "armadio_s"
+weight = 12
 [[menu.link]]
 name = "GitHub"
 url = "https://github.com/LazyCat-afk"
