@@ -58,11 +58,11 @@ showLicense = false
 showToc = false
 
 # Copyright
-copyrightStartYear = "2020"
+copyrightStartYear = "2023"
 
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
-description = "A minimal Hugo theme with nice theme color."
+description = "archivio libri Liceo M. Buonarroti"
 og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
