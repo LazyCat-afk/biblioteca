@@ -1,4 +1,4 @@
-baseURL = 'https://soliprem.github.io/biblioteca/'
+baseURL = 'https://LazyCat-afk.github.io/biblioteca/'
 canonifyurls = true
 languageCode = 'en-us'
 title = 'Biblioteca'
@@ -73,7 +73,7 @@ mainSections = ["post"]
 
 # License
 license = "GPLv3"
-licenseLink = "http://github.com/soliprem/biblioteca/LICENSE/"
+licenseLink = "http://github.com/LazyCat-afk/biblioteca/LICENSE/"
 
 # Comments
 # utterances, see: https://utteranc.es/
@@ -136,19 +136,12 @@ weight = 5
 
 [[menu.link]]
 name = "GitHub"
-url = "https://github.com/dsrkafuu"
+url = "https://github.com/LazyCat-afk"
 weight = 1
-[[menu.link]]
-name = "Twitter"
-url = "https://twitter.com/dsrkafuu"
-weight = 2
-[[menu.link]]
-name = "bilibili"
-url = "https://space.bilibili.com/19767474"
-weight = 3
 
 [build]
 noJSConfigInAssets = true
 
 [security]
 enableInlineShortcodes = true
+
