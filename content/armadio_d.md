@@ -1,4 +1,4 @@
----
+
 title: "Armadio D"
 date: 2023-05-10T01:17:57+02:00
 ---
@@ -32,7 +32,7 @@ date: 2023-05-10T01:17:57+02:00
 |25|Saba U.|Il Canzoniere|
 |26|Frattini-Tuscano ( a cura di )|Poeti italiani del XX sec.|
 |27|||
-|28|Spaganaoletti G.|Poesia contemporanea (1909-1959)|
+|28|Spagnoletti G.|Poesia contemporanea (1909-1959)|
 |29|Guglielminetti M.|I poeti contemporanei|
 |30|Praga E|"Tavolozza" e "Penombre"|
 |31|Praga E|Poesie|
@@ -1191,7 +1191,7 @@ date: 2023-05-10T01:17:57+02:00
 |1181|Lunzer Renate|IRREDENTI REDENTI Intellettuali giuliani del '900 |
 |1182|Chiereghin Walter-Martelli H. Claudio- prefazione di Elvio Guagnini|Dizionario degli autori di Trieste, dell'Isontino, dell'Istria e della Dalmazia|
 |1183|Marco Giovanetti|Grado la voce della sua poesia|
-|1184|D’aenia Alessandro|L’arte di essere fragili. Come Leopardi può salvarti la vita|
+|1184|D'avenia Alessandro|L’arte di essere fragili. Come Leopardi può salvarti la vita|
 |1185|Baricco Alessandro|The game|
 |1186|||
 |1187|Orio Vergani|Udienze a porte chiuse|
@@ -1230,3 +1230,23 @@ date: 2023-05-10T01:17:57+02:00
 |1220|Claudio Marabini|Silone|
 |1221|Primo Levi|Se non ora, quando?|
 |1222|Emilio Salgari|I pirati della Malesia|
+|1223|Antonella Sbuelz|Questa notte non torno|
+|1224|Antonella Sbuelz|Questa notte non torno|
+|1225|Antonella Sbuelz|Questa notte non torno|
+|1226| 
+|1227|Antonella Sbuelz|Questa notte non torno|
+|1228|Antonella Sbuelz|Questa notte non torno|
+|1229|Antonella Sbuelz|Questa notte non torno|
+|1230|Antonella Sbuelz|Questa notte non torno|
+|1231|Antonella Sbuelz|Questa notte non torno|
+|1232|Antonella Sbuelz|Questa notte non torno|
+|1233|Antonella Sbuelz|Questa notte non torno|
+|1234|Antonella Sbuelz|Questa notte non torno|
+|1235|Antonella Sbuelz|Questa notte non torno|
+|1236|Antonella Sbuelz|Questa notte non torno|
+|1237|Antonella Sbuelz|Questa notte non torno|
+1238|Antonella Sbuelz|Questa notte non torno|
+|1239|Antonella Sbuelz|Questa notte non torno|
+|1240|Antonella Sbuelz|Questa notte non torno|
+|1241|Antonella Sbuelz|Questa notte non torno|
+|1242|Antonella Sbuelz|Questa notte non torno|
