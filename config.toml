@@ -48,7 +48,7 @@ sourceURL = "https://github.com/dsrkafuu/hugo-theme-fuji"
 # Word counter and read time indicator in post metadata
 showWordCounter = true
 showReadTime = false
-hideNoTagList = false
+hideNoTagList = true
 
 # License in the footer
 showLicenseInFooter = true
