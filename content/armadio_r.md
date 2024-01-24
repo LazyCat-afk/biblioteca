@@ -200,7 +200,7 @@ date: 2023-05-10T03:20:53+02:00
 |193|Macdonald D.|Verso lo zero assoluto|
 |194|Koch W.|Onde sonore e onde luminose|
 |195|Griffin D .|Guidandosi con l'eco|
-|196|Gamow G .|Trent'anni che sconvolsero la fisica|
+|196|||
 |197|Fink G.|Mente umana e cervelli elettronici|
 |198|Fink G.|Le macchine calcolatrici|
 |199|||
